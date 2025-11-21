@@ -53,10 +53,11 @@ Curiosity drives me, and I’m always eager to explore new technologies and chal
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariana-ribeiro&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-ribeiro&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=mariana-ribeiro&theme=radical)
+<!-- ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariana-ribeir&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-ribeir&layout=compact&theme=radical)
+     --- -->
+![GitHub Streak](https://streak-stats.demolab.com?user=mariana-ribeir&theme=radical)
 
 </div>
 
